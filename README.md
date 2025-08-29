@@ -1,6 +1,6 @@
 # Hi, I'm Amer
 
-I'm a passionate **Front-End and Back-End Web Developer** currently enrolled in the **ALX ProDev program**.  
+I'm a passionate **Front-End and Back-End Web Developer** currently enrolled in the **ALX ProDev and Back-End Web Development programs**.  
 I started software engineering because I love **building exciting projects** for myself, my friends, and eventually for the public to use.  
 
 My current goal is to **expand my knowledge and grow in my tech career** while continuing to sharpen my skills by working on projects and exploring new technologies.  
