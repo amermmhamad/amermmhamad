@@ -25,7 +25,7 @@ My current goal is to **expand my knowledge and grow in my tech career** while c
 
 ## Repositories to Check Out
 ➡️ [Quiznose](#) – A fun app that fetches trivia questions from an API.  
-➡️ [More Projects Coming Soon!](#) – Currently working on more portfolio-ready repos.  
+➡️ [Shopping Spree!](#) – An interactive shopping cart that lets you add and remove items to your grocery list.  
 
 ---
 
