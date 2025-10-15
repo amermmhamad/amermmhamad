@@ -24,15 +24,15 @@ My current goal is to **expand my knowledge and grow in my tech career** while c
 ---
 
 ## Repositories to Check Out
-- [Quiznose](#) – A fun app that fetches trivia questions from an API.
-- [amerdle!](#) – A wordle-like simulation, that you can play for all day long.
-- [Shopping Spree!](#) – An interactive shopping cart that lets you add and remove items to your grocery list.
-- [Tic-Tac-Toe](#) – Your average tic-tac-toe game!
+- [Quiznose](https://quiznose.vercel.app/) – A fun app that fetches trivia questions from an API.
+- [amerdle!](amerdle.vercel.app/) – A wordle-like simulation, that you can play for all day long.
+- [Shopping Spree!](shopping-spree-omega.vercel.app) – An interactive shopping cart that lets you add and remove items to your grocery list.
+- [Tic-Tac-Toe](https://amers-tic-tac-toe.vercel.app/) – Your average tic-tac-toe game!
 
 ---
 
 ## Connect with Me
-- [LinkedIn](#)  
-- [Email](#)  
+- [LinkedIn](https://www.linkedin.com/in/amer-hamad-126b79262/)  
+- [Email](amermmhamad@gmail.com)  
 
 Thanks for visiting my profile! Stay tuned — more projects are on the way.
