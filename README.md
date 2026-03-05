@@ -1,38 +1,56 @@
-# Hi, I'm Amer
+# Hi, I'm Mohamed
 
-I'm a passionate **Front-End and Back-End Web Developer** currently enrolled in the **ALX ProDev and Back-End Web Development programs**.  
-I started software engineering because I love **building exciting projects** for myself, my friends, and eventually for the public to use.  
+I'm a Front-End Developer with about two years of experience building web applications using JavaScript, TypeScript, and React.
 
-My current goal is to **expand my knowledge and grow in my tech career** while continuing to sharpen my skills by working on projects and exploring new technologies.  
+Most of my work focuses on building real products rather than small tutorial projects. I like creating tools that solve practical problems, especially internal tools and workflow systems.
 
----
+## What I work with
 
-## Tech & Tools
-- Frontend: **HTML, CSS, JavaScript, TypeScript**
-- Backend: **Node.js, Express, Python (learning)**
-- Frameworks/Libraries: **React, TailwindCSS**
-- Databases: **MySQL, MongoDB (basics)**
-- Tools: **Git, GitHub, VS Code, Figma, DevTools**
+Frontend
+- React
+- TypeScript
+- JavaScript
+- TailwindCSS
+- HTML / CSS
 
----
+Backend & Infrastructure
+- Supabase
+- PostgreSQL
+- Node.js
+- REST APIs
 
-## Currently Learning
-- **React Native** (building mobile apps)  
-- **Backend development with Node.js & Express**  
-- Best practices for **clean code and problem-solving**  
+Tools
+- Git / GitHub
+- Vercel
+- AWS
+- Figma
 
----
+## What I like building
 
-## Repositories to Check Out
-- [Quiznose](https://quiznose.vercel.app/) – A fun app that fetches trivia questions from an API.
-- [amerdle!](amerdle.vercel.app/) – A wordle-like simulation, that you can play for all day long.
-- [Shopping Spree!](shopping-spree-omega.vercel.app) – An interactive shopping cart that lets you add and remove items to your grocery list.
-- [Tic-Tac-Toe](https://amers-tic-tac-toe.vercel.app/) – Your average tic-tac-toe game!
+I enjoy working on projects that combine product thinking with engineering. Some of the things I've built or worked on include:
 
----
+- Internal workflow tools for companies
+- Social media posting and automation tools
+- Custom dashboards and management systems
+- File storage and structured data systems
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/amer-hamad-126b79262/)  
-- [Email](amermmhamad@gmail.com)  
+I like figuring out how a process works and then building software that makes it simpler.
 
-Thanks for visiting my profile! Stay tuned — more projects are on the way.
+## What I'm currently learning
+
+Right now I'm focusing on improving my understanding of:
+
+- scalable frontend architecture
+- backend integration and APIs
+- cloud infrastructure
+- product-focused development
+
+## Projects
+
+You can find some of my projects in my repositories. Most of them are experiments, prototypes, or tools I'm actively improving.
+
+## Contact
+
+If you want to collaborate or talk about projects, feel free to reach out.
+
+LinkedIn: (add your link)
