@@ -53,4 +53,3 @@ You can find some of my projects in my repositories. Most of them are experiment
 
 If you want to collaborate or talk about projects, feel free to reach out.
 
-LinkedIn: (add your link)
