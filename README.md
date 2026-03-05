@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed
+# Hi, I'm Amer
 
 I'm a Front-End Developer with about two years of experience building web applications using JavaScript, TypeScript, and React.
 
