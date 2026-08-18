@@ -1,55 +1,55 @@
-# Hi, I'm Amer
+# Hi, I'm Amer 👋
 
-I'm a Front-End Developer with about two years of experience building web applications using JavaScript, TypeScript, and React.
+I'm a Frontend Engineer with about two years of experience building web and mobile applications with React, React Native, and TypeScript. I focus on translating real-world workflows into practical, reliable software rather than one-off tutorial projects, especially internal tools, operational systems, and automation.
 
-Most of my work focuses on building real products rather than small tutorial projects. I like creating tools that solve practical problems, especially internal tools and workflow systems.
+I'm currently building the mobile and web platform at **IBS (International Business Services)**, and previously worked on client web products and internal automation tools at **Fist Bump**.
 
 ## What I work with
 
-Frontend
-- React
-- TypeScript
-- JavaScript
-- TailwindCSS
-- HTML / CSS
+**Frontend**
+- React & React Native
+- TypeScript / JavaScript
+- Next.js
+- Redux / Context API
+- Tailwind CSS
+- HTML / CSS3
+- Accessibility (WCAG)
 
-Backend & Infrastructure
-- Supabase
-- PostgreSQL
-- Node.js
+**Backend & Integration**
 - REST APIs
+- Oracle-based backend integration
+- Node.js
+- PostgreSQL
 
-Tools
+**Tools**
 - Git / GitHub
 - Vercel
-- AWS
 - Figma
+- Jira
 
 ## What I like building
 
-I enjoy working on projects that combine product thinking with engineering. Some of the things I've built or worked on include:
+I enjoy work that sits at the intersection of product thinking and engineering figuring out how a process actually works, then building software that makes it simpler. Some of what I've built or worked on:
 
-- Internal workflow tools for companies
-- Social media posting and automation tools
+- A React Native employee management & onboarding app integrated with Oracle backend systems
+- Internal workflow and automation tools for LinkedIn/Meta (post scheduling, outreach, AI-assisted content)
+- A Chrome extension for sales lead targeting and engagement
+- Client and company websites focused on responsive, pixel-perfect, accessible UI
 - Custom dashboards and management systems
-- File storage and structured data systems
-
-I like figuring out how a process works and then building software that makes it simpler.
 
 ## What I'm currently learning
 
-Right now I'm focusing on improving my understanding of:
-
-- scalable frontend architecture
-- backend integration and APIs
-- cloud infrastructure
-- product-focused development
+- Scalable frontend architecture
+- Deeper backend integration & API design
+- Cloud infrastructure
+- Product-focused development
 
 ## Projects
 
-You can find some of my projects in my repositories. Most of them are experiments, prototypes, or tools I'm actively improving.
+Most of my repositories are experiments, prototypes, or tools I'm actively improving. Feel free to check them out below.
 
 ## Contact
 
-If you want to collaborate or talk about projects, feel free to reach out.
+Open to collaborating or talking through projects, don't hesitate to reach out.
 
+📧 amermmhamad@gmail.com
