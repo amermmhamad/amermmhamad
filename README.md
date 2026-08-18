@@ -1,4 +1,4 @@
-# Hi, I'm Amer 👋
+# Hi, I'm Amer!
 
 I'm a Frontend Engineer with about two years of experience building web and mobile applications with React, React Native, and TypeScript. I focus on translating real-world workflows into practical, reliable software rather than one-off tutorial projects, especially internal tools, operational systems, and automation.
 
